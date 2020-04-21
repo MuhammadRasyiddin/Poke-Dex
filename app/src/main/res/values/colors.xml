@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="color_bg_card">#f1fdfd</color>
+    <color name="color_txt_pokemon_name">#2B2B2B</color>
+    <color name="color_divider">#DDDDDD</color>
+    <color name="color_pokemon_description">#424242</color>
+</resources>

@@ -1,0 +1,233 @@
+[
+  {
+    "NationalId": 1,
+    "Name": "Bulbasaur",
+    "Type": [
+      5,
+      8
+    ],
+    "Height": "2'04\"",
+    "Weight": "15.2",
+    "Description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.  Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"
+  },
+  {
+    "NationalId": 2,
+    "Name": "Ivysaur",
+    "Type": [
+      5,
+      8
+    ],
+    "Height": "3'03\"",
+    "Weight": "28.7",
+    "Description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.  There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png"
+  },
+  {
+    "NationalId": 3,
+    "Name": "Venusaur",
+    "Type": [
+      5,
+      8
+    ],
+    "Height": "6'07\"",
+    "Weight": "342.8",
+    "Description": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.  There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png"
+  },
+  {
+    "NationalId": 4,
+    "Name": "Charmander",
+    "Type": [
+      2
+    ],
+    "Height": "2'00\"",
+    "Weight": "18.7",
+    "Description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.  The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"
+  },
+  {
+    "NationalId": 5,
+    "Name": "Charmeleon",
+    "Type": [
+      2
+    ],
+    "Height": "3'07\"",
+    "Weight": "41.9",
+    "Description": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.  Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png"
+  },
+  {
+    "NationalId": 6,
+    "Name": "Charizard",
+    "Type": [
+      2,
+      10
+    ],
+    "Height": "5'07\"",
+    "Weight": "221.6",
+    "Description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.  Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png"
+  },
+  {
+    "NationalId": 7,
+    "Name": "Squirtle",
+    "Type": [
+      3
+    ],
+    "Height": "1'08\"",
+    "Weight": "19.8",
+    "Description": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.  Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
+  },
+  {
+    "NationalId": 8,
+    "Name": "Wartortle",
+    "Type": [
+      3
+    ],
+    "Height": "3'03\"",
+    "Weight": "49.6",
+    "Description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.  Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"
+  },
+  {
+    "NationalId": 9,
+    "Name": "Blastoise",
+    "Type": [
+      3
+    ],
+    "Height": "5'03\"",
+    "Weight": "222.9",
+    "Description": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.  Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png"
+  },
+  {
+    "NationalId": 10,
+    "Name": "Caterpie",
+    "Type": [
+      12
+    ],
+    "Height": "1'00\"",
+    "Weight": "6.4",
+    "Description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.  Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png"
+  },
+  {
+    "NationalId": 11,
+    "Name": "Metapod",
+    "Type": [
+      12
+    ],
+    "Height": "2'04\"",
+    "Weight": "21.8",
+    "Description": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.  The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png"
+  },
+  {
+    "NationalId": 12,
+    "Name": "Butterfree",
+    "Type": [
+      12,
+      10
+    ],
+    "Height": "3'07\"",
+    "Weight": "70.2",
+    "Description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.  Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png"
+  },
+  {
+    "NationalId": 13,
+    "Name": "Weedle",
+    "Type": [
+      12,
+      8
+    ],
+    "Height": "1'00\"",
+    "Weight": "7.1",
+    "Description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).  Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png"
+  },
+  {
+    "NationalId": 14,
+    "Name": "Kakuna",
+    "Type": [
+      12,
+      8
+    ],
+    "Height": "2'00\"",
+    "Weight": "22",
+    "Description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.  Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png"
+  },
+  {
+    "NationalId": 15,
+    "Name": "Beedrill",
+    "Type": [
+      12,
+      8
+    ],
+    "Height": "3'03\"",
+    "Weight": "89.3",
+    "Description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.  Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png"
+  },
+  {
+    "NationalId": 16,
+    "Name": "Pidgey",
+    "Type": [
+      1,
+      10
+    ],
+    "Height": "1'00\"",
+    "Weight": "4",
+    "Description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.  Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png"
+  },
+  {
+    "NationalId": 17,
+    "Name": "Pidgeotto",
+    "Type": [
+      1,
+      10
+    ],
+    "Height": "3'07\"",
+    "Weight": "66.1",
+    "Description": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.  Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png"
+  },
+  {
+    "NationalId": 18,
+    "Name": "Pidgeot",
+    "Type": [
+      1,
+      10
+    ],
+    "Height": "4'11\"",
+    "Weight": "87.1",
+    "Description": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.  This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png"
+  },
+  {
+    "NationalId": 19,
+    "Name": "Rattata",
+    "Type": [
+      1
+    ],
+    "Height": "1'00\"",
+    "Weight": "8.4",
+    "Description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.  Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png"
+  },
+  {
+    "NationalId": 20,
+    "Name": "Raticate",
+    "Type": [
+      1
+    ],
+    "Height": "2'04\"",
+    "Weight": "56.2",
+    "Description": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.  Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "ImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png"
+  }
+]
