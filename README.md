@@ -1,2 +1,2 @@
-# Pokedex
-A simple Pokedex using Recyclerview
+# Poke-Dex
+Task Dicoding: Belajar Membuat Aplikasi Android untuk Pemula
