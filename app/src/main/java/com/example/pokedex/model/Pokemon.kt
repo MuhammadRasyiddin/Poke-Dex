@@ -10,6 +10,8 @@ data class Pokemon(
     var nationalId: String? = null,
     @SerializedName("Name")
     var name: String? = null,
+    @SerializedName("Type")
+    var types: List<Int>? = null,
     @SerializedName("Height")
     var height: String? = null,
     @SerializedName("Weight")

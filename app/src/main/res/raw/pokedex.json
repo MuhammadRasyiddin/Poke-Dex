@@ -4,7 +4,7 @@
     "Name": "Bulbasaur",
     "Type": [
       5,
-      8
+      12
     ],
     "Height": "2'04\"",
     "Weight": "15.2",
@@ -16,7 +16,7 @@
     "Name": "Ivysaur",
     "Type": [
       5,
-      8
+      12
     ],
     "Height": "3'03\"",
     "Weight": "28.7",
@@ -28,7 +28,7 @@
     "Name": "Venusaur",
     "Type": [
       5,
-      8
+      12
     ],
     "Height": "6'07\"",
     "Weight": "342.8",
@@ -39,7 +39,7 @@
     "NationalId": 4,
     "Name": "Charmander",
     "Type": [
-      2
+      10
     ],
     "Height": "2'00\"",
     "Weight": "18.7",
@@ -50,7 +50,7 @@
     "NationalId": 5,
     "Name": "Charmeleon",
     "Type": [
-      2
+      10
     ],
     "Height": "3'07\"",
     "Weight": "41.9",
@@ -61,8 +61,8 @@
     "NationalId": 6,
     "Name": "Charizard",
     "Type": [
-      2,
-      10
+      10,
+      3
     ],
     "Height": "5'07\"",
     "Weight": "221.6",
@@ -73,7 +73,7 @@
     "NationalId": 7,
     "Name": "Squirtle",
     "Type": [
-      3
+      11
     ],
     "Height": "1'08\"",
     "Weight": "19.8",
@@ -84,7 +84,7 @@
     "NationalId": 8,
     "Name": "Wartortle",
     "Type": [
-      3
+      11
     ],
     "Height": "3'03\"",
     "Weight": "49.6",
@@ -95,7 +95,7 @@
     "NationalId": 9,
     "Name": "Blastoise",
     "Type": [
-      3
+      11
     ],
     "Height": "5'03\"",
     "Weight": "222.9",
@@ -106,7 +106,7 @@
     "NationalId": 10,
     "Name": "Caterpie",
     "Type": [
-      12
+      7
     ],
     "Height": "1'00\"",
     "Weight": "6.4",
@@ -117,7 +117,7 @@
     "NationalId": 11,
     "Name": "Metapod",
     "Type": [
-      12
+      7
     ],
     "Height": "2'04\"",
     "Weight": "21.8",
@@ -128,8 +128,8 @@
     "NationalId": 12,
     "Name": "Butterfree",
     "Type": [
-      12,
-      10
+      7,
+      3
     ],
     "Height": "3'07\"",
     "Weight": "70.2",
@@ -140,8 +140,8 @@
     "NationalId": 13,
     "Name": "Weedle",
     "Type": [
-      12,
-      8
+      7,
+      4
     ],
     "Height": "1'00\"",
     "Weight": "7.1",
@@ -152,8 +152,8 @@
     "NationalId": 14,
     "Name": "Kakuna",
     "Type": [
-      12,
-      8
+      7,
+      4
     ],
     "Height": "2'00\"",
     "Weight": "22",
@@ -164,8 +164,8 @@
     "NationalId": 15,
     "Name": "Beedrill",
     "Type": [
-      12,
-      8
+      7,
+      4
     ],
     "Height": "3'03\"",
     "Weight": "89.3",
@@ -177,7 +177,7 @@
     "Name": "Pidgey",
     "Type": [
       1,
-      10
+      3
     ],
     "Height": "1'00\"",
     "Weight": "4",
@@ -189,7 +189,7 @@
     "Name": "Pidgeotto",
     "Type": [
       1,
-      10
+      3
     ],
     "Height": "3'07\"",
     "Weight": "66.1",
@@ -201,7 +201,7 @@
     "Name": "Pidgeot",
     "Type": [
       1,
-      10
+      3
     ],
     "Height": "4'11\"",
     "Weight": "87.1",

@@ -2,38 +2,54 @@ package com.example.pokedex.ui.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.recyclerview.widget.GridLayoutManager
+import androidx.fragment.app.Fragment
 import com.example.pokedex.R
-import com.example.pokedex.model.Pokemon
-import com.example.pokedex.ui.detail.DetailPokemonActivity
-import com.example.pokedex.utils.getJsonFromRaw
-import com.google.gson.Gson
-import kotlinx.android.synthetic.main.activity_main.*
+import com.example.pokedex.ui.main.fragment.about.AboutFragment
+import com.example.pokedex.ui.main.fragment.home.HomeFragment
+import com.google.android.material.bottomnavigation.BottomNavigationView
+import kotlinx.android.synthetic.main.template_toolbar.*
 
 class MainActivity : AppCompatActivity() {
+    private var mCurrentFragment: Fragment? = HomeFragment()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        if (savedInstanceState == null) {
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.frameLayout, mCurrentFragment!!)
+                .commit()
+        } else {
+            mCurrentFragment = supportFragmentManager.getFragment(savedInstanceState, "FRAGMENT")
+            supportFragmentManager.beginTransaction().replace(R.id.frameLayout, mCurrentFragment!!)
+                .commit()
+
+        }
+
         setUp()
     }
 
     private fun setUp() {
         setSupportActionBar(toolbar)
-        val pGridAdapter = PokedexGridAdapter(
-            onClickListener = { pokemon ->
-                val intent = DetailPokemonActivity.newIntent(this)
-                intent.putExtra(DetailPokemonActivity.POKEMON_KEY, pokemon)
-                startActivity(intent)
-            }
-        )
-        recyclerPokedex.apply {
-            adapter = pGridAdapter
-            layoutManager = GridLayoutManager(this.context, 3)
-        }
+        val bottomNavigationView: BottomNavigationView = findViewById(R.id.bottomNavigationView)
 
-        val pokemonString: String = getJsonFromRaw(R.raw.pokedex)
-        val pokemonList = Gson().fromJson(pokemonString, Array<Pokemon>::class.java).toList()
-        pGridAdapter.addList(pokemonList)
+        bottomNavigationView.setOnNavigationItemSelectedListener { item ->
+            when (item.itemId) {
+
+                R.id.home -> {
+                    mCurrentFragment = HomeFragment()
+
+                }
+                R.id.about -> {
+                    mCurrentFragment =
+                        AboutFragment()
+                }
+
+            }
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.frameLayout, mCurrentFragment!!)
+                .commit()
+            true
+        }
     }
 }
